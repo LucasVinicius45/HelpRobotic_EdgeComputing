@@ -1,0 +1,30 @@
+[
+    {
+        "id": "bceb6c751300637b",
+        "type": "inject",
+        "z": "f65f35e982473c62",
+        "name": "Chegada de Cliente",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 250,
+        "y": 300,
+        "wires": [
+            [
+                "835f2d6f4adaec39"
+            ]
+        ]
+    }
+]
